@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/cclark/Code/sync/Experiment/c++20/concepts/build/generators/CMakePresets.json"
+    ]
+}
